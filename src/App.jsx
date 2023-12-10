@@ -6,10 +6,10 @@ export default function App() {
   /* === Firebase Setup === */
   /* IMPORTANT: Replace this with your own firebaseConfig when doing challenges */
   const firebaseConfig = {
-    apiKey: "AIzaSyAHJbZ3ikXgxNndXzZaBYXzFxAOftjYxt0",
-    authDomain: "moody-14aac.firebaseapp.com",
-    projectId: "moody-14aac",
-    storageBucket: "moody-14aac.appspot.com",
+    // apiKey: "AIzaSyAHJbZ3ikXgxNndXzZaBYXzFxAOftjYxt0",
+    // authDomain: "moody-14aac.firebaseapp.com",
+    // projectId: "moody-14aac",
+    // storageBucket: "moody-14aac.appspot.com",
   }
 
   const app = initializeApp(firebaseConfig)
